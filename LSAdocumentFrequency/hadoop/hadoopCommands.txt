@@ -1,0 +1,18 @@
+hadoop fs -getmerge /user/hduser/yewno-output /home/hduser/yewno-output
+
+hadoop fs -ls
+
+hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.6.0.jar -mapper /home/hduser/hadoop_code/dfmapper.py -reducer /home/hduser/hadoop_code/dfreducer.py -input /tf -output yewno-output
+
+hadoop fs -cp /tmp/part-00000 /tf
+
+hadoop fs -cat /user/hduser/ricardo-output2/part-00000
+
+hadoop fs -cat /tmp/par*|head -50
+
+hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.6.0.jar -mapper /home/hduser/hadoop_code/tfmapper.py -reducer /home/hduser/hadoop_code/tfreducer.py -input /user/hduser/* -output /tmp
+
+Reference: http://www.hongyusu.com/technology/2015/08/16/compute-tf-idf-by-hadoop-python
+
+Install hadoop on a single node: http://www.bogotobogo.com/Hadoop/BigData_hadoop_Install_on_ubuntu_single_node_cluster.php
+

@@ -1,0 +1,49 @@
+                      Melville
+Oliver Wendell Holme  0.355775
+Herman Melville       0.789912
+Rafael Sabatini       0.201084
+Bret Harte     PART   0.260339
+George M. Wrong A Ch  0.187753
+Bret Harte     CONTE  0.386318
+Herodotus  Translate  0.282686
+Prosper Merimee       0.235957
+Maxim Gorky   Transl  0.246960
+Bret Harte     CHAPT  0.232926
+Mary Roberts Rinehar  0.329500
+Bret Harte     CHAPT  0.398288
+Harold Howland     C  0.167154
+Grace S. Richmond     0.422827
+Louisa M. Alcott      0.450975
+H. Rider Haggard      0.381659
+William Makepeace Th  0.542989
+William Kirby     AU  0.230051
+Charles Darwin   A R  0.283417
+Charles Darwin   A R  0.209932
+H. Rider Haggard      0.309256
+Henrik Ibsen   Trans  0.081680
+E. Phillips Oppenhei  0.241772
+William Makepeace Th  0.638608
+Margaret Sidney       0.270983
+John Galsworthy       0.242295
+John Galsworthy       0.318024
+John Galsworthy       0.370749
+John Galsworthy       0.403782
+Ford Madox Ford       0.299586
+Clara Louise Burnham  0.253562
+Rudyard Kipling       0.394416
+Rafael Sabatini       0.236030
+Bret Harte     CONTE  0.700278
+Baroness Orczy     C  0.285535
+Louisa May Alcott     0.437035
+Louisa M. Alcott      0.330286
+Louisa May Alcott     0.416352
+Bret Harte     CHAPT  0.310634
+Bret Harte    The ra  0.183113
+Alfred Ollivant    C  0.370080
+William Makepeace Th  0.351213
+William Makepeace Th  0.181734
+Irving Bacheller      0.457003
+
+[44 rows x 1 columns]
+<<<<<<<<<<<<<DONE>>>>>>>>>>>>>>
+
