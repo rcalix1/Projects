@@ -7,7 +7,7 @@ def dfreducer():
   for line in sys.stdin:
     word,filename,wordcount,count = line.strip().split()
     prefix = "%s\t%s\t%s" %(word,filename,wordcount)
-    if word == None:
+    if curword == None:
       curword = word
       curcount = eval(count)
       space.append(prefix)
