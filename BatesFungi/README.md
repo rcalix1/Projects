@@ -23,6 +23,8 @@ Complete results for the 1,155 search terms found .....[link](https://github.com
 
 embedding size = 128
 
+current vocabulary size = 51555 
+
 
 
 Example embedding for the word 'fungus'
