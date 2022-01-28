@@ -1,6 +1,7 @@
 ## VECTOR SPACE from fungi related research literature
 
 genus word not found in current vector space...... 11159
+
 total genus found in vector space ................ 1155
 
 
@@ -24,7 +25,7 @@ embedding size = 128
 
 
 
-Example embedding for the word fungus
+Example embedding for the word 'fungus'
 
 [-8.8075958e-03  7.1625673e-04 -2.6268587e-03 -4.2115338e-03
   5.5674771e-03  4.7527484e-04  7.0554749e-03 -3.5458452e-03
