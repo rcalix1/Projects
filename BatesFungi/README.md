@@ -1,8 +1,8 @@
 ## VECTOR SPACE from fungi related research literature
 
-genus word not found in current vector space...... 11159
+genus words not found in current vector space...... 11159
 
-total genus found in vector space ................ 1155
+total genus words found in vector space ................ 1155
 
 
 # 20 most similar words in vector space to genus 'longispora'
