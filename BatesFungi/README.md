@@ -14,7 +14,7 @@ total genus words found in vector space ................ 1155
 ('tritc', 0.3004731237888336), ('dfg', 0.2940788269042969), ('lipsiae', 0.2928178906440735), ('ib', 0.2920679450035095)]
 
 
-Complete results for the 1,155 search terms found .....link
+Complete results for the 1,155 search terms found .....[link](https://github.com/rcalix1/Projects/blob/master/BatesFungi/results.1.28.2022.tx)
 
 
 # Embeddings 
