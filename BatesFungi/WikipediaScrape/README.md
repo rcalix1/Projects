@@ -1,9 +1,13 @@
 ## VECTOR SPACE from fungi related Wikipedia text
 
+100 randomly selected words from the compressed vector space (PCA from 128 to 2)
 
 ![Alt text](https://github.com/rcalix1/Projects/blob/master/BatesFungi/WikipediaScrape/Figure_1ljhgds.100.png)
 
-100 randomly selected words from the compressed vector space (PCA from 128 to 2)
+200 randomly selected words from the compressed vector space (PCA from 128 to 2)
+
+![Alt text](https://github.com/rcalix1/Projects/blob/master/BatesFungi/WikipediaScrape/Figure_1.kghfhh.200.png)
+
 
 # Genus terms
 
