@@ -16,7 +16,7 @@ total genus words found in vector space ................ 5215
 
 
 
-Complete results for the 5215 search terms found .....[link](https://github.com/rcalix1/Projects/blob/master/BatesFungi/results.1.28.2022.txt)
+Complete results for the 5215 search terms found .....[link](https://raw.githubusercontent.com/rcalix1/Projects/master/BatesFungi/WikipediaScrape/results.txt)
 
 
 # Embeddings 
