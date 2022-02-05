@@ -3,7 +3,7 @@
 
 ![Alt text](https://github.com/rcalix1/Projects/blob/master/BatesFungi/WikipediaScrape/Figure_1ljhgds.100.png)
 
-200 randomly selected words from the compressed vector space (PCA from 128 to 2)
+100 randomly selected words from the compressed vector space (PCA from 128 to 2)
 
 genus words not found in current vector space...... 7099
 
@@ -25,7 +25,7 @@ Complete results for the 5215 search terms found .....[link](https://raw.githubu
 
 embedding size = 128
 
-current vocabulary size = 80357 
+current vocabulary size = 80,357 
 
 
 
