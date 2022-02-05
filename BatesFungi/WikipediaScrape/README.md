@@ -1,7 +1,7 @@
 ## VECTOR SPACE from fungi related Wikipedia text
 
 
-![Alt text](Image URL)
+![Alt text](https://github.com/rcalix1/Projects/blob/master/BatesFungi/WikipediaScrape/Figure_1ljhgds.100.png)
 
 200 randomly selected words from the compressed vector space (PCA from 128 to 2)
 
