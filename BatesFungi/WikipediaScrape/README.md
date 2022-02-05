@@ -5,6 +5,8 @@
 
 100 randomly selected words from the compressed vector space (PCA from 128 to 2)
 
+# Genus terms
+
 genus words not found in current vector space...... 7099
 
 total genus words found in vector space ................ 5215
