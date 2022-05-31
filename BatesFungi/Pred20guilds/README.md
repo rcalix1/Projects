@@ -3,3 +3,4 @@
 * 20 guilds
 * RoBERTa base
 * fine-tuned for 20 classes
+* used files in fungi_ncbi_csv_split_guild
