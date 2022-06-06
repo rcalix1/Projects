@@ -9,6 +9,8 @@
 ## results so far 
 
   'Parasite': 0, 'Other': 1, 'Pathogen': 2, 'Mycorrhizal': 3, 'Saprotroph': 4, 'Lichenized': 5
+
+
 Accuracy: 0.17
 
 [[ 8148   267 13743  5964   526 10994]
