@@ -19,4 +19,4 @@ data
 
 The FAA aircraft registration database
 
-https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download/ contains
+https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/releasable_aircraft_download/ 
